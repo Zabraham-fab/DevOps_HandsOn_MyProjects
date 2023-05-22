@@ -1,5 +1,7 @@
 # DevOps Hands-on Trainings
 
+<img src="Data extraction.gif">
+
 List of hands-on trainings within DevOps as follows;
 # Ansible
 
